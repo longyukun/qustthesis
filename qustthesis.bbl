@@ -1,0 +1,48 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{DOI: \href{http://dx.doi.org/#1}{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+
+\bibitem[Schurer\ et~al.(2017)Schurer, Mann, Hawkins, Tett, and
+  Hegerl]{schurer2017importance}
+SCHURER A~P, MANN M~E, HAWKINS E, et~al.
+\newblock Importance of the pre-industrial baseline for likelihood of exceeding
+  paris goals\allowbreak[J].
+\newblock Nature climate change, 2017, 7\penalty0 (8): 563--567.
+
+\bibitem[Millar\ et~al.(2017)Millar, Fuglestvedt, Friedlingstein, Rogelj,
+  Grubb, Matthews, Skeie, Forster, Frame, and Allen]{millar2017emission}
+MILLAR R~J, FUGLESTVEDT J~S, FRIEDLINGSTEIN P, et~al.
+\newblock Emission budgets and pathways consistent with limiting warming to 1.5
+  c\allowbreak[J].
+\newblock Nature Geoscience, 2017, 10\penalty0 (10): 741--747.
+
+\bibitem[P{\"o}rtner\ et~al.(2019)P{\"o}rtner, Roberts, Masson-Delmotte, Zhai,
+  Tignor, Poloczanska, and Weyer]{portner2019ocean}
+P{\"O}RTNER H~O, ROBERTS D~C, MASSON-DELMOTTE V, et~al.
+\newblock The ocean and cryosphere in a changing climate\allowbreak[J].
+\newblock IPCC special report on the ocean and cryosphere in a changing
+  climate, 2019, 1155.
+
+\bibitem[ECM()]{ECMWF_2023_hottest}
+2023 was the hottest year on record, {Copernicus} data show {\textbar}
+  {ECMWF}\allowbreak[EB/OL].
+\newblock \allowbreak[2024-03-17].
+\newblock
+  \url{https://www.ecmwf.int/en/about/media-centre/news/2024/2023-was-hottest-year-record-copernicus-data-show}.
+
+\bibitem[Rouse(1974)]{Rouse1974Monitoring}
+ROUSE J~W.
+\newblock Monitoring vegetation systems in the great plains with
+  erts\allowbreak[J].
+\newblock Nasa Special Publication, 1974, 351: 309.
+
+\bibitem[贾永红(2010)]{贾永红2010数字图像处理}
+贾永红.
+\newblock 数字图像处理.第2版\allowbreak[M].
+\newblock 武汉: 武汉大学出版社, 2010.
+
+\end{thebibliography}

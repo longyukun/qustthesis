@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: qustthesis.aux
+The style file: gbt7714-2015.bst
+Illegal, another \bibstyle command---line 52 of file qustthesis.aux
+ : \bibstyle
+ :          {gbt7714-numerical}
+I'm skipping whatever remains of this command
+Database file #1: bibliography.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty year in ECMWF_2023_hottest
+You've used 6 entries,
+            3453 wiz_defined-function locations,
+            809 strings with 7064 characters,
+and the built_in function-call counts, 45928 in all, are:
+= -- 4721
+> -- 4858
+< -- 4830
++ -- 1506
+- -- 41
+* -- 198
+:= -- 4902
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 22
+chr.to.int$ -- 1390
+cite$ -- 8
+duplicate$ -- 115
+empty$ -- 340
+format.name$ -- 90
+if$ -- 13367
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 0
+newline$ -- 39
+num.names$ -- 15
+pop$ -- 1995
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 5683
+stack$ -- 0
+substring$ -- 1492
+swap$ -- 6
+text.length$ -- 51
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 59
+warning$ -- 1
+while$ -- 66
+width$ -- 0
+write$ -- 94
+(There was 1 error message)
